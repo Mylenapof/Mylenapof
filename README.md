@@ -10,7 +10,7 @@
 
 ###
 <p align="left>  Sou estudante do curso de Análise e Desenvolvimento de Sistemas. 📚 <br>
-  E vou estar postando os meus projetos que estou testando enquanto estudo. 🚀
+  E vou estar postando os meus projetos que estou testando enquanto estudo. 🚀</p>
 
 
 ###
