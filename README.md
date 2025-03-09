@@ -9,7 +9,7 @@
 <h2 align="left">Sobre Mim</h2>
 
 ###
-<p align="left>  Sou estudante do curso de Análise e Desenvolvimento de Sistemas. 📚 <br>
+<p align="left">  Sou estudante do curso de Análise e Desenvolvimento de Sistemas. 📚 <br>
   E vou estar postando os meus projetos que estou testando enquanto estudo. 🚀</p>
 
 
