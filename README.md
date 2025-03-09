@@ -9,8 +9,6 @@
 <h2 align="left">Sobre Mim</h2>
 
 ###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 <p align="left>  Sou estudante do curso de Análise e Desenvolvimento de Sistemas. 📚 <br>
   E vou estar postando os meus projetos que estou testando enquanto estudo. 🚀
 
