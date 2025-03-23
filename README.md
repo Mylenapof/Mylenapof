@@ -1,21 +1,24 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+# 👋 Olá, eu sou a Mylena!  
 
-###
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (3º período)  
+💻 **Em transição de carreira para desenvolvimento de software**  
+🚀 Aprendendo e desenvolvendo projetos em **Java, HTML, CSS, JavaScript e Banco de Dados**  
 
-<p align="left">Meu nome é Mylena!.</p>
+## ✨ Sobre mim  
+Sou apaixonada por tecnologia e estou constantemente aprendendo novas habilidades para aprimorar meus conhecimentos. No momento, estou focada em desenvolvimento back-end com **Java** e explorando o desenvolvimento web com **HTML, CSS e JavaScript**.  
 
-###
+Aqui no meu GitHub, você encontrará projetos que estou desenvolvendo enquanto estudo. Meu objetivo é consolidar meus conhecimentos e compartilhar minha evolução na área de tecnologia.  
 
-<h2 align="left">Sobre Mim</h2>
+## 🛠 Tecnologias que estou aprendendo  
+- 🔹 **Linguagens:** Java, JavaScript  
+- 🔹 **Web:** HTML, CSS  
+- 🔹 **Banco de Dados:** MySQL  
+- 🔹 **Ferramentas e Versionamento:** Git, GitHub  
 
-###
-<p align="left">  Sou estudante do curso de Análise e Desenvolvimento de Sistemas. 📚 <br>
-  E vou estar postando os meus projetos que estou testando enquanto estudo. 🚀</p>
+## 📌 Como me encontrar  
 
+💼 **LinkedIn:** [https://www.linkedin.com/in/mylena-de-paula-631326232/](#)  
 
-###
-
-<h2 align="left">Eu estou estou estudando para desenvolver em  </h2>
 
 ###
 
